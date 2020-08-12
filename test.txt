@@ -1,2 +1,3 @@
 Just for test for Git.
 yujintao@meizu.com
+git status test
